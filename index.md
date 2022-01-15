@@ -7,19 +7,8 @@ published: true
 
 **Instructors**
 
-[Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering<br>
+[Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science, Computer Science and Engineering<br>
 [George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
-
-**Section Leaders**
-
-[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202<br>
-[Jeewon Ha](mailto:jh6926@nyu.edu), DS-UA 202<br>
-[Prasanthi Gurumurthy](mailto:pg1899@nyu.edu), DS-GA 1017<br>
-
-**Graders**
-
-[Evaristus Ezekwem](mailto:ece278@nyu.edu), DS-GA 1017<br>
-[Nan Wu](mailto:nw1045@nyu.edu), DS-GA 1017
 
 ## Syllabi
 
@@ -34,33 +23,11 @@ Responsible Data Science is a technical course that tackles the issues of ethics
 
 The course is developed and taught by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) (Assistant Professor at the Center for Data Science and at the Tandon School of Engineering) and [George Wood](https://gwood.me) (Moore-Sloan Faculty Fellow at the Center for Data Science).
 
-
-## Meeting Times
-
-**DS-UA 202:**
-
-| | Day | Time | Format |
-|:--|:--|:--|:--|
-Lecture A | Tuesdays   | 9:30am -- 12pm     | Blended |
-Lab     A | Wednesdays | 9:30am -- 10:20am  | Online  |
-Lab     B | Wednesdays | 10:25am -- 11:15am | Blended |
-
-&nbsp;
-
-**DS-GA 1017:**
-
-
-| | Day | Time | Format |
-|:--|:--|:--|:--|
-Lecture B | Mondays    | 9:15am -- 10:55am  | Blended |
-Lab     C | Mondays    | 11:35am -- 12:25pm | Blended |
-Lab     D | Wednesdays | 9:30am -- 10:20am  | Online  |
-
 ## Prerequisites
 
 **DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
 **DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
 
-## Assignments
+## Meeting Times and Assignments
 
-See [NYU Classes](https://newclasses.nyu.edu).
+See [Brightspace](https://brightspace.nyu.edu).
