@@ -21,7 +21,7 @@ The first wave of data science focused on accuracy and efficiency -- on what we 
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection.
 
-The course is developed and taught by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) (Assistant Professor at the Center for Data Science and at the Tandon School of Engineering) and [George Wood](https://gwood.me) (Moore-Sloan Faculty Fellow at the Center for Data Science).
+The course is developed and taught by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) and [George Wood](https://gwood.me).
 
 ## Prerequisites
 
