@@ -5,8 +5,8 @@ published: true
 
 ## Instructors
 
-[Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science, Computer Science and Engineering<br>
-[George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
+**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science, Computer Science and Engineering<br>
+**DS-UA 202:** [George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
 
 ## Syllabi
 
