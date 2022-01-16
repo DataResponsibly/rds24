@@ -3,9 +3,7 @@ layout: index
 published: true
 ---
 
-## Overview
-
-**Instructors**
+## Instructors
 
 [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science, Computer Science and Engineering<br>
 [George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
