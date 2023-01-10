@@ -5,8 +5,8 @@ published: true
 
 ## Instructors
 
-**DS-UA 202:** [Elisha Cohen](https://www.elishacohen.com/), Moore-Sloan Faculty Fellow, Center for Data Science<br>
-**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science, Computer Science and Engineering<br>
+**DS-UA 202:** [Elisha Cohen](https://www.elishacohen.com/), Data Science Faculty Fellow, Center for Data Science, New York University<br>
+**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science and of Computer Science \& Engineering, New York University<br>
 
 ## Syllabi
 
