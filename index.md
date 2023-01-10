@@ -5,8 +5,8 @@ published: true
 
 ## Instructors
 
-**DS-UA 202:** [Elisha Cohen](https://www.elishacohen.com/), Data Science Faculty Fellow, Center for Data Science, New York University<br>
-**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science and of Computer Science \& Engineering, New York University<br>
+**DS-UA 202:** [Elisha Cohen](https://www.elishacohen.com/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
+**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science and of Computer Science & Engineering, NYU<br>
 
 ## Syllabi
 
@@ -19,7 +19,7 @@ The first wave of data science focused on accuracy and efficiency -- on what we 
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection.
 
-The course is developed by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) and taught by her and [Elisha Cohen](https://www.elishacohen.com/).
+The course is developed by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), and taught by her and [Elisha Cohen](https://www.elishacohen.com/).
 
 ## Prerequisites
 
