@@ -11,7 +11,7 @@ published: true
 ## Syllabi
 
 * [DS-UA 202](assets/syllabus_DS_UA_202_Spring2023.pdf)
-* [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2022.pdf)
+* [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2023.pdf)
 
 ## Description
 
