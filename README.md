@@ -1,6 +1,6 @@
 # Responsible Data Science
 
-Course website for Responsible Data Science (DS-UA 202 and DS-GA 1017) at New York University. The website can be viewed here: https://dataresponsibly.github.io/rds23/
+Course website for Responsible Data Science (DS-UA 202 and DS-GA 1017) at New York University. The website can be viewed here: https://dataresponsibly.github.io/rds24/
 
 ---
 
