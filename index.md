@@ -5,13 +5,13 @@ published: true
 
 ## Instructors
 
-**DS-UA 202:** [Elisha Cohen](https://www.elishacohen.com/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
-**DS-GA 1017:** [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Associate Professor of Data Science and of Computer Science & Engineering, NYU<br>
+**DS-GA 1017:** [Julia Stoyanovich](https://r-ai.co/people/julia/), Associate Professor of Data Science and of Computer Science & Engineering, NYU<br>
+**DS-UA 202:** [Umang Bhatt](https://umangsbhatt.github.io/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
 
 ## Syllabi
 
-* [DS-UA 202](assets/syllabus_DS_UA_202_Spring2023.pdf)
-* [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2023.pdf)
+* [DS-UA 202](assets/syllabus_DS_UA_202_Spring2024.pdf)
+* [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2024.pdf)
 
 ## Description
 
@@ -19,11 +19,11 @@ The first wave of data science focused on accuracy and efficiency -- on what we 
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection.
 
-The course is developed by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), and taught by her and [Elisha Cohen](https://www.elishacohen.com/).
+The course is developed by [Julia Stoyanovich](https://r-ai.co/people/julia/), and taught by her and [Umang Bhatt](https://umangsbhatt.github.io/).
 
 ## Prerequisites
 
-**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
+**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses
 **DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
 
 ## Meeting Times and Assignments
